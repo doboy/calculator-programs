@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I my name is Zack and welcome to my github page. I am a software engineer, who started out learning how to program on the TI-83/84 calculators back when I was in high school. Here are some of my most notable programs. If you find value in my work, consider donating to show your appreciation.
+Hi, I my name is Zack and welcome to my Github page. I am a software engineer, who started out learning how to program on the TI-83/84 calculators back when I was in high school. Here are some of my most notable programs. If you find value in my work, consider donating to show your appreciation.
 
 ## Programs
 
@@ -20,7 +20,7 @@ How to
 * Program will display angles from 0' to 180' or 0 to π press enter to see angles from 180 to 360 or π to 2π
 * Press enter one more time to exit the program
 * If you exit by pressing OFF/ON then your axes will be turned off and your functions will be turned off
-* To turn back axes press "2nd Formt" then switch "Axes On"
+* To turn back axes press "2nd Format" then switch "Axes On"
 * To turn functions back on press "Y=" and hover over the plus signs, press "Enter" while on a plus sign
 * There are two version of this program based on what calculator you have. If you download the wrong one the text might be displayed squished or out of window.
 
@@ -33,9 +33,9 @@ How to
 
 ![Which case you have](https://www.ticalc.org/archives/files/ss/798/79873.gif)
 ![Solved](https://www.ticalc.org/archives/files/ss/798/79874.gif)
-![Solved Ambigious case](https://www.ticalc.org/archives/files/ss/798/79875.gif)
+![Solved Ambiguous case](https://www.ticalc.org/archives/files/ss/798/79875.gif)
 
-This program finds missing sides and angles given 3 parts of a triangle. The program will ask you which sides and angles are given. The possible values are A, B, and C. The possible angles are α, β and γ. A is the side opposite to A, β is the side opposite to B, and γ is the side opposite to C. Additional, this program also solves common cases such as right triangles and equilateral triangles. When solving for the case "A,B,α" there is a possible ambigious case where 2 triangles are given.
+This program finds missing sides and angles given 3 parts of a triangle. The program will ask you which sides and angles are given. The possible values are A, B, and C. The possible angles are α, β and γ. A is the side opposite to A, β is the side opposite to B, and γ is the side opposite to C. Additional, this program also solves common cases such as right triangles and equilateral triangles. When solving for the case "A,B,α" there is a possible ambiguous case where 2 triangles are given.
 
 How to
 * To run the program press PRGM then press TRIANGLE
