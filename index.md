@@ -10,7 +10,7 @@ Hi, I my name is Zack and welcome to my Github page. I am a software engineer, w
 
 ### Unit Circle Cheat Sheet
 
-<img alt="unit-circle.gif" src="/calculator-programs/resources/unit-circle/screenshots/unit-circle.gif" width="384"/>
+<img style="1px solid black" alt="unit-circle.gif" src="/calculator-programs/resources/unit-circle/screenshots/unit-circle.gif" width="384"/>
 
 This program displays the sin(θ) and cos(θ) values for common angles in the unit circle for the four quadrants. To get tan(θ) just divide sin(θ) by cos(θ).
 
