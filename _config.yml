@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 description: Programs for TI-83/84
+github:
+  is_project_page: false
