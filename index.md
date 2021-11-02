@@ -4,7 +4,7 @@
 
 Hi, I my name is Zack and welcome to my Github page. I am a software engineer, who started out learning how to program on the TI-83/84 calculators back when I was in high school. Here are some of my most notable programs. If you find value in my work, consider donating to show your appreciation.
 
-<button name="button"><a href="https://ko-fi.com/doboy">Click here to Donte</a></button>
+<button name="button"><a href="https://ko-fi.com/doboy">Click here to Donate</a></button>
 
 ## Programs
 
@@ -27,6 +27,7 @@ Instructions
 
 <button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.8xp">Download for TI-83/84</a></button>
 <button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.ce.8xp">Download for TI-83/84 CE</a></button>
+<button name="button"><a href="https://ko-fi.com/doboy">Donate</a></button>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScgwDb1rQaONeA-CpU262AejZxel2nLh_u6gkYqZlEdTcJm0w/viewform?usp=sf_link">Report a problem</a>
 
 ------
@@ -50,4 +51,5 @@ Instructions
 
 <button name="button"><a href="/calculator-programs/resources/triangle/source/triangle.8xp">Download for TI-83/84</a></button>
 <button name="button"><a href="/calculator-programs/resources/triangle/source/triangle.ce.8xp">Download for TI-83/84 CE</a></button>
+<button name="button"><a href="https://ko-fi.com/doboy">Donate</a></button>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScgwDb1rQaONeA-CpU262AejZxel2nLh_u6gkYqZlEdTcJm0w/viewform?usp=sf_link">Report a problem</a>
