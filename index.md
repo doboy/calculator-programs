@@ -27,6 +27,7 @@ Instructions
 
 <button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.8xp">Download for TI-83/84</a></button>
 <button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.ce.8xp">Download for TI-83/84 CE</a></button>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScgwDb1rQaONeA-CpU262AejZxel2nLh_u6gkYqZlEdTcJm0w/viewform?usp=sf_link">Report a problem</a>
 
 ------
 
@@ -49,3 +50,4 @@ Instructions
 
 <button name="button"><a href="/calculator-programs/resources/triangle/source/triangle.8xp">Download for TI-83/84</a></button>
 <button name="button"><a href="/calculator-programs/resources/triangle/source/triangle.ce.8xp">Download for TI-83/84 CE</a></button>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScgwDb1rQaONeA-CpU262AejZxel2nLh_u6gkYqZlEdTcJm0w/viewform?usp=sf_link">Report a problem</a>
