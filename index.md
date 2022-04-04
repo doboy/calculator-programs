@@ -25,8 +25,8 @@ Instructions
 * To turn functions back on press "VARS" then under "Y-VARS" press "4: On/Off" then press "1: FnOn"
 * There are two version of this program based on what calculator you have. If you download the wrong one the text might be displayed squished or out of window.
 
-<button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.8xp">Download for TI-83/84</a></button>
-<button name="button"><a href="/calculator-programs/resources/triangle/source/unit-circle.ce.8xp">Download for TI-83/84 CE</a></button>
+<button name="button"><a href="/calculator-programs/resources/unit-circle/source/unit-circle.8xp">Download for TI-83/84</a></button>
+<button name="button"><a href="/calculator-programs/resources/unit-circle/source/unit-circle.ce.8xp">Download for TI-83/84 CE</a></button>
 <button name="button"><a href="https://ko-fi.com/doboy">Donate</a></button>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScgwDb1rQaONeA-CpU262AejZxel2nLh_u6gkYqZlEdTcJm0w/viewform?usp=sf_link">Report a problem</a>
 
